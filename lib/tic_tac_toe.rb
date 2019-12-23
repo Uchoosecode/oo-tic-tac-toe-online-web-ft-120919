@@ -98,6 +98,7 @@ class TicTacToe
         nil
       end
     end
+  end
 
     def play 
       # binding.pry
@@ -110,6 +111,5 @@ class TicTacToe
         puts "Cat's Game!"
       end 
     end
-  end
 end
   
