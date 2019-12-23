@@ -102,7 +102,7 @@ class TicTacToe
 
     def play 
       # binding.pry
-      until over? == true 
+      until over?  
       turn
       end
       if won?
